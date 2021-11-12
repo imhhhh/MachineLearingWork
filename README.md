@@ -1,7 +1,7 @@
 ---
 <div align="center">  
 
-# MachineLearingWork
+# 基于MNIST数据集的多种算法对比
   
 </div>
  
